@@ -1,0 +1,7 @@
+flask
+data_handler
+yagmail
+qrcode
+opencv-python-headless
+Pillow
+pyzbar
