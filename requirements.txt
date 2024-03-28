@@ -2,10 +2,10 @@ flask
 data_handler
 yagmail
 qrcode
-opencv-python
 opencv-python-headless
 Pillow
 pyzbar
 face_recognition
 webbrowser
 pyautogui
+libgl1-mesa-glx
